@@ -3,6 +3,7 @@
 This is a Pizza Restaurant API responsible for performing the CRUD operations
 
 # ERD DIAGRAM
+![PizzaRestaurant](https://user-images.githubusercontent.com/110999866/226122527-7e1d3dde-64e0-432a-a5b3-305e712d097b.jpg)
 
 # Configuration
 
